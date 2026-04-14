@@ -30,6 +30,26 @@
 
 ---
 
+### 🚀 Currently Shipping
+> *[LabyConnectPy](https://labyconnect.de) — a LabyMod automation dashboard*
+> v0.1.0 → v4.4.11 in 6 weeks. Claude typed all of it.
+
+- 📅 March 5th: "initial release"
+- 📅 April 14th: MariaDB, IMAP webmail, MultiFernet key rotation, 58-point security audit
+- 📅 Timeline: 40 days. Normal.
+
+**Notable lore:**
+- `v4.0.1` — FIX-01 through FIX-58 in a single version. the security audit did not go well
+- `v4.4.7` — production down. one missing field on a dataclass. one field.
+- `v3.2.1` `v3.2.2` `v3.2.3` — three Discord bot hotfixes. same day. the bot said no three times.
+- `v4.4.11` — the changelog parser was silently returning zero entries the whole time. a bug that hides itself. respect.
+- `v4.1.0` through `v4.4.4` — MariaDB migration spanning 4 versions, labeled "dormant" the entire time, like a sleeping threat
+
+> *lines of code written by me: 0*
+> *accountability for all of the above: fully mine*
+
+---
+
 ### 🧰 Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -71,6 +91,7 @@
 
 ### 🌐 Links
 - [enc4yp7ed.sh](http://enc4yp7ed.sh)
+- [labyconnect.de](https://labyconnect.de)
 
 ---
 

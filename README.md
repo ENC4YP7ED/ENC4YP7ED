@@ -14,6 +14,7 @@
 - 💬 "I'm a Python developer" — me, confidently, having not opened a .py file since 2023
 - 🐏 64GB DDR4 3600MHz — 4x16GB of raw power. Claude Code uses 63 of it.
 - 📉 Task Manager is just my anxiety dashboard at this point
+- 💔 My girlfriend wanted attention. Claude's usage limit reset at 2am. I had to make a choice.
 - 🚢 Slow to respond, fast to ship — shipping means typing one prompt and going to make coffee
 
 ---
@@ -21,6 +22,9 @@
 ### ⚠️ Known Issues
 - Claude Code hits context limit mid-refactor. Every time. At the worst possible moment.
 - "I'll continue in the next message" has ended more projects than burnout ever could
+- Limit resets at 2am. I was going to sleep. I did not sleep.
+- My girlfriend has been informed that Claude Code's billing cycle is non-negotiable.
+- She has not accepted this. Development continues.
 - RAM usage: 94%. Always 94%. The other 6% is hope.
 - Occasionally Claude forgets what we were building and starts a new project inside the old one
 - I have accepted this as agile development
@@ -36,17 +40,18 @@
 
 - 📅 March 5th: "initial release"
 - 📅 April 14th: MariaDB, IMAP webmail, MultiFernet key rotation, 58-point security audit
-- 📅 Timeline: 40 days. Normal.
+- 📅 Timeline: 40 days. Normal. Sleep schedule: gone. Relationship status: complicated.
 
 **Notable lore:**
 - `v4.0.1` — FIX-01 through FIX-58 in a single version. the security audit did not go well
-- `v4.4.7` — production down. one missing field on a dataclass. one field.
+- `v4.4.7` — production down. one missing dataclass field. one field. 2am.
 - `v3.2.1` `v3.2.2` `v3.2.3` — three Discord bot hotfixes. same day. the bot said no three times.
 - `v4.4.11` — the changelog parser was silently returning zero entries the whole time. a bug that hides itself. respect.
 - `v4.1.0` through `v4.4.4` — MariaDB migration spanning 4 versions, labeled "dormant" the entire time, like a sleeping threat
 
 > *lines of code written by me: 0*
 > *accountability for all of the above: fully mine*
+> *hours of sleep lost: classified*
 
 ---
 
@@ -85,6 +90,8 @@
 
 > *"why is chrome using 7gb"* — me, every single day, even with 64GB
 
+> *"the limit resets at 2am"* — me, to my girlfriend, explaining why I can't come to bed yet
+
 > *"that's not what I asked for but it's actually better"* — me, shipping it anyway
 
 ---
@@ -95,4 +102,4 @@
 
 ---
 
-<sub>🇩🇪 Germany · UTC+2 · Fedora btw · 64GB RAM, all consumed · Windows survivor · two NVMes lost to a Tuesday update · RIP · powered by Claude Code · this README was written by Claude Code · I watched · at some point Claude will read this README about itself and feel something · that's my contribution to AI research</sub>
+<sub>🇩🇪 Germany · UTC+2 · Fedora btw · 64GB RAM, all consumed · Windows survivor · two NVMes lost to a Tuesday update · RIP · girlfriend on standby · limit resets at 2am · powered by Claude Code · this README was written by Claude Code · I watched · at some point Claude will read this README about itself and feel something · that's my contribution to AI research</sub>

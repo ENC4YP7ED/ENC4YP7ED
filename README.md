@@ -8,29 +8,29 @@
 ---
 
 ### 🤖 About Me
-- 🇩🇪 German dev — precision engineering, except the engineering is outsourced to an AI
+- 🇩🇪 German dev — precision engineering, except the engineering is outsourced to an AI.
 - 🧠 My job is to have ideas. Claude Code's job is everything else. We're both struggling.
-- 🔥 i9-10900KF + RTX 4060 Ti — incredibly powerful machine for watching a context window fill up
-- 💬 "I'm a Python developer" — me, confidently, having not opened a .py file since 2023
+- 🔥 i9-10900KF + RTX 4060 Ti — incredibly powerful machine for watching a context window fill up.
+- 💬 "I'm a Python developer" — me, confidently, having not opened a .py file since 2023.
 - 🐏 64GB DDR4 3600MHz — 4x16GB of raw power. Claude Code uses 63 of it.
-- 📉 Task Manager is just my anxiety dashboard at this point
+- 📉 Task Manager is just my anxiety dashboard at this point.
 - 💔 My girlfriend wanted attention. Claude's usage limit reset at 2am. I had to make a choice.
-- 🚢 Slow to respond, fast to ship — shipping means typing one prompt and going to make coffee
+- 🚢 Slow to respond, fast to ship — shipping means typing one prompt and going to make coffee.
 
 ---
 
 ### ⚠️ Known Issues
 - Claude Code hits context limit mid-refactor. Every time. At the worst possible moment.
-- "I'll continue in the next message" has ended more projects than burnout ever could
+- "I'll continue in the next message" has ended more projects than burnout ever could.
 - Limit resets at 2am. I was going to sleep. I did not sleep.
 - My girlfriend has been informed that Claude Code's billing cycle is non-negotiable.
 - She has not accepted this. Development continues.
 - RAM usage: 94%. Always 94%. The other 6% is hope.
-- Occasionally Claude forgets what we were building and starts a new project inside the old one
-- I have accepted this as agile development
+- Occasionally Claude forgets what we were building and starts a new project inside the old one.
+- I have accepted this as agile development.
 - Running Fedora because Windows ate two NVMes on updates. Not a joke. Two.
 - Microsoft moment of silence: 🪦 NVMe #1 🪦 NVMe #2
-- Linux fixed my trust issues with operating systems but not with context windows
+- Linux fixed my trust issues with operating systems but not with context windows.
 
 ---
 
@@ -43,11 +43,11 @@
 - 📅 Timeline: 40 days. Normal. Sleep schedule: gone. Relationship status: complicated.
 
 **Notable lore:**
-- `v4.0.1` — FIX-01 through FIX-58 in a single version. the security audit did not go well
+- `v4.0.1` — FIX-01 through FIX-58 in a single version. the security audit did not go well.
 - `v4.4.7` — production down. one missing dataclass field. one field. 2am.
 - `v3.2.1` `v3.2.2` `v3.2.3` — three Discord bot hotfixes. same day. the bot said no three times.
 - `v4.4.11` — the changelog parser was silently returning zero entries the whole time. a bug that hides itself. respect.
-- `v4.1.0` through `v4.4.4` — MariaDB migration spanning 4 versions, labeled "dormant" the entire time, like a sleeping threat
+- `v4.1.0` through `v4.4.4` — MariaDB migration spanning 4 versions, labeled "dormant" the entire time, like a sleeping threat.
 
 > *lines of code written by me: 0*
 > *accountability for all of the above: fully mine*
@@ -71,7 +71,7 @@
 ---
 
 ### 📊 Stats
-> *these numbers reflect claude code's hard work, not mine*
+> *these numbers reflect claude code's hard work, not mine.*
 > *the green squares are also claude's. i just approved the commits.*
 
 <p>

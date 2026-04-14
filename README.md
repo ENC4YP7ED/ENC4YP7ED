@@ -3,15 +3,30 @@
 >
 > Every line of code I write is executed by **[Claude Code](https://claude.ai/code)**.
 > Every line of code I *claim* to have written was also written by **[Claude Code](https://claude.ai/code)**.
+> The commit message too. And this README. Claude wrote this disclaimer about Claude.
 
 ---
 
 ### 🤖 About Me
 - 🇩🇪 German dev — precision engineering, except the engineering is outsourced to an AI
-- 🧠 My job is to have ideas. Claude Code's job is everything else
-- 🔥 i9-10900KF + RTX 4060 Ti — very powerful machine for asking an AI to type for me
-- 💬 "I'm a Python developer" — me, having not written Python since I discovered Claude Code
-- 🚢 Slow to respond, fast to ship — because shipping means typing a prompt
+- 🧠 My job is to have ideas. Claude Code's job is everything else. We're both struggling.
+- 🔥 i9-10900KF + RTX 4060 Ti — incredibly powerful machine for watching a context window fill up
+- 💬 "I'm a Python developer" — me, confidently, having not opened a .py file since 2023
+- 🐏 64GB DDR4 3600MHz — 4x16GB of raw power. Claude Code uses 63 of it.
+- 📉 Task Manager is just my anxiety dashboard at this point
+- 🚢 Slow to respond, fast to ship — shipping means typing one prompt and going to make coffee
+
+---
+
+### ⚠️ Known Issues
+- Claude Code hits context limit mid-refactor. Every time. At the worst possible moment.
+- "I'll continue in the next message" has ended more projects than burnout ever could
+- RAM usage: 94%. Always 94%. The other 6% is hope.
+- Occasionally Claude forgets what we were building and starts a new project inside the old one
+- I have accepted this as agile development
+- Running Fedora because Windows ate two NVMes on updates. Not a joke. Two.
+- Microsoft moment of silence: 🪦 NVMe #1 🪦 NVMe #2
+- Linux fixed my trust issues with operating systems but not with context windows
 
 ---
 
@@ -24,17 +39,33 @@
 ![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat&logo=html5&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-64GB_gone-red?style=flat&logo=databricks&logoColor=white)
 
 ---
 
 ### 📊 Stats
 > *these numbers reflect claude code's hard work, not mine*
+> *the green squares are also claude's. i just approved the commits.*
 
 <p>
   <img height="160" src="https://github-readme-stats-ENC4YP7ED.vercel.app/api?username=ENC4YP7ED&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats-ENC4YP7ED.vercel.app/api/top-langs/?username=ENC4YP7ED&layout=compact&theme=dark&hide_border=true" />
 </p>
+
+> top language is whatever claude was in the mood for that day
+
+---
+
+### 💭 Real Quotes From My Development Process
+> *"just do the whole thing in one go"* — me, optimistically, before the context limit hits at 80%
+
+> *"wait what were we building again"* — me, after claude forgets mid-session
+
+> *"why is chrome using 7gb"* — me, every single day, even with 64GB
+
+> *"that's not what I asked for but it's actually better"* — me, shipping it anyway
 
 ---
 
@@ -43,4 +74,4 @@
 
 ---
 
-<sub>🇩🇪 Germany · UTC+2 · responses may be delayed · powered by Claude Code · this README was also written by Claude Code · I just watched</sub>
+<sub>🇩🇪 Germany · UTC+2 · Fedora btw · 64GB RAM, all consumed · Windows survivor · two NVMes lost to a Tuesday update · RIP · powered by Claude Code · this README was written by Claude Code · I watched · at some point Claude will read this README about itself and feel something · that's my contribution to AI research</sub>
